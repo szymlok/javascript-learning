@@ -14,3 +14,4 @@ arithmetic: +, -, *, /, %
 Comparison: ==, ===, !=, >, <, >=, <=
 Logical: &&, ||, !
 
+DOM manipulation - manipulating HTML via JS
